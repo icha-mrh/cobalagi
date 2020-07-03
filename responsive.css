@@ -1,0 +1,81 @@
+
+@media screen and (max-width: 1000px) {
+    .container {
+        width: 100%;
+    }
+
+    .top-wrapper {
+        width: auto;
+        padding-bottom: 50px;
+    }
+    .content-wrapper{
+        margin-top:50px;
+        width: auto;
+    }
+
+    .content-container-left {
+        width: auto;
+        background-color: #89d0ff;
+    }
+    .side-right {
+        width: auto;
+        float: right;
+    }
+    .lesson {
+        width: auto;
+    }
+    .lesson-icon {
+        width: auto;
+    }
+    .lessons{
+        width: auto;
+    }
+    footer {
+        width: auto;
+    }
+    .heading {
+        height: auto;
+    }
+
+}
+@media screen and (max-width: 780px) {
+
+    header,
+    footer{
+        text-align:center;
+    }
+    footer p{
+        text-align: center;
+    }
+
+    .top-wrapper {
+        width: auto;
+        float: none;
+    }
+
+    .contant-wrapper {
+        width: auto;
+        float: none;
+    }
+    .header-right{
+        display:none;
+    }
+
+    .menu-icon{
+        display:block;
+    }
+
+    .lesson {
+        width:auto;
+        float:none;
+        text-align: center;
+    }
+    .lessons {
+        width:auto;
+        float:none;
+    }
+    .heading {
+        padding-top: 800px;
+        background-color: #89d0ff;
+    }
+}
