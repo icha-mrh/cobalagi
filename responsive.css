@@ -15,7 +15,6 @@
 
     .content-container-left {
         width: auto;
-        background-color: #89d0ff;
     }
     .side-right {
         width: auto;
@@ -75,6 +74,6 @@
         float:none;
     }
     .heading {
-        padding-top: 1000px;
+        padding-top: 900px;
     }
 }
