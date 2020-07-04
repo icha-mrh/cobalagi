@@ -51,6 +51,11 @@
         width: auto;
         float: none;
     }
+    .top-wrapper h1{
+        width:auto;
+        float:none;
+        font-size:12px;
+    }
 
     .contant-wrapper {
         width: auto;
