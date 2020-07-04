@@ -33,6 +33,7 @@
         width: auto;
     }
     .heading {
+        height: auto;
         padding-top: 300px;
     }
 
@@ -74,6 +75,7 @@
         float:none;
     }
     .heading {
+        height:auto;
         padding-top: 1000px;
     }
 }
