@@ -33,7 +33,7 @@
         width: auto;
     }
     .heading {
-        height: auto;
+        padding-top: 300px;
     }
 
 }
@@ -50,10 +50,6 @@
     .top-wrapper {
         width: auto;
         float: none;
-    }
-    .top-wrapper h1{
-        width:auto;
-        float:none;
     }
 
     .contant-wrapper {
@@ -78,6 +74,6 @@
         float:none;
     }
     .heading {
-       height:auto;
+        padding-top: 1000px;
     }
 }
